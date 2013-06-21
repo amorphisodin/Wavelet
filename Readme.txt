@@ -1,1 +1,1 @@
-实现小波变换（matlab version）
+Wavelet Transform(matlab version)
